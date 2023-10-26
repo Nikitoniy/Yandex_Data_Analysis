@@ -11,7 +11,7 @@
 `pandas`
 <hr>
 
-### 2. <a href="https://github.com/Nikitoniy/Yandex_Data_Analysis/blob/main/2_Исследование_объявлений_о_продаже_квартир.ipynb" target="blank">Исследование объявлений о продаже квартир</a>
+### 2. <a href="https://github.com/Nikitoniy/Yandex_Data_Analysis/blob/main/2_Исследование_объявлений_о_продаже_квартир.ipynb" target="blank" rel="noreferrer">Исследование объявлений о продаже квартир</a>
 
 
 **Задача:**
@@ -21,7 +21,7 @@
 `pandas, matplotlib.pyplot, warnings`
 <hr>
 
-### 3. <a href="https://github.com/Nikitoniy/Yandex_Data_Analysis/blob/main/3_Исследование_данных_о_российском_кинопрокате.ipynb" target="blank">Исследование данных о российском кинопрокате</a>
+### 3. <a href="https://github.com/Nikitoniy/Yandex_Data_Analysis/blob/main/3_Исследование_данных_о_российском_кинопрокате.ipynb" target="blank" rel="noreferrer">Исследование данных о российском кинопрокате</a>
 
 **Задача:**
 Заказчик этого исследования — Министерство культуры Российской Федерации. 
