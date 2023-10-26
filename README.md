@@ -2,7 +2,7 @@
 ## Мои учебные проекты
 <hr>
 
-### 1. <a href="https://github.com/Nikitoniy/Yandex_Data_Analysis/blob/main/1_Исследование_надежности_заемщиков.ipynb" target="blank" rel="noreferrer">Исследование надежности заемщиков</a>
+### 1. <a href="https://colab.research.google.com/github/Nikitoniy/Yandex_Data_Analysis/blob/main/1_Исследование_надежности_заемщиков.ipynb" target="blank" rel="noreferrer">Исследование надежности заемщиков</a>
 
 **Задача:**
 Заказчик — кредитный отдел банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов. Результаты исследования будут учтены при построении модели кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку.
@@ -11,7 +11,7 @@
 `pandas`
 <hr>
 
-### 2. <a href="https://github.com/Nikitoniy/Yandex_Data_Analysis/blob/main/2_Исследование_объявлений_о_продаже_квартир.ipynb" target="blank" rel="noreferrer">Исследование объявлений о продаже квартир</a>
+### 2. <a href="https://colab.research.google.com/github/Nikitoniy/Yandex_Data_Analysis/blob/main/2_Исследование_объявлений_о_продаже_квартир.ipynb" target="blank" rel="noreferrer">Исследование объявлений о продаже квартир</a>
 
 
 **Задача:**
