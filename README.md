@@ -21,7 +21,7 @@
 `pandas, matplotlib.pyplot, warnings`
 <hr>
 
-### 3. <a href="https://github.com/Nikitoniy/Yandex_Data_Analysis/blob/main/3_Исследование_данных_о_российском_кинопрокате.ipynb" target="blank" rel="noreferrer">Исследование данных о российском кинопрокате</a>
+### 3. <a href="https://colab.research.google.com/github/Nikitoniy/Yandex_Data_Analysis/blob/main/3_Исследование_данных_о_российском_кинопрокате.ipynb" target="blank">Исследование данных о российском кинопрокате</a>
 
 **Задача:**
 Заказчик этого исследования — Министерство культуры Российской Федерации. 
