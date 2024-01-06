@@ -49,4 +49,6 @@
 
 **Библиотеки:**
 `pandas, os, numpy, sqlalchemy`
+
+**Дополнительно использовано:** `Tableau, SQL запросы`
 <hr>
