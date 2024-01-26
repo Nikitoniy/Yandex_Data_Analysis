@@ -12,7 +12,7 @@
 `pandas, plotly.express, graph_objects, folium, folium.plugins, matplotlib.pyplot, numpy, warnings`
 <hr>
 
-### 2. <a href="https://colab.research.google.com/github/Nikitoniy/Yandex_Data_Analysis/blob/main/5_Уровень_потребительской_лояльности_среди_клиентов_из_России.ipynb" target="blank">Уровень потребительской лояльности среди клиентов из России</a>
+### 2. <a href="https://colab.research.google.com/github/Nikitoniy/Yandex_Data_Analysis/blob/main/%D0%A3%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C_%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%BB%D0%BE%D1%8F%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2_%D0%B8%D0%B7_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8.ipynb" target="blank">Уровень потребительской лояльности среди клиентов из России</a>
 
 **Задача:**
 Заказчик этого исследования — большая телекоммуникационная компания, которая оказывает услуги на территории всего СНГ.
