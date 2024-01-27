@@ -23,3 +23,13 @@
 
 **Дополнительно использовано:** `Tableau, SQL запросы`
 <hr>
+
+### 3. <a href="https://colab.research.google.com/github/Nikitoniy/Yandex_Data_Analysis/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%83%D0%B1%D1%8B%D1%82%D0%BA%D0%BE%D0%B2_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_Procrastinate_Pro%2B.ipynb" target="blank">Анализ убытков приложения Procrastinate Pro+</a>
+
+**Задача:**
+Заказчик этого исследования — развлекательного приложения Procrastinate Pro+.
+Несмотря на огромные вложения в рекламу, последние несколько месяцев компания терпит убытки. Основная задача — разобраться в причинах и помочь компании выйти в плюс. Данные предоставлены о пользователях, привлечённых с 1 мая по 27 октября 2019 года.
+
+**Библиотеки:**
+`pandas, datetime, numpy, matplotlib, seaborn`
+<hr>
