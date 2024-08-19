@@ -33,3 +33,14 @@
 **Библиотеки:**
 `pandas, datetime, numpy, matplotlib, seaborn`
 <hr>
+
+### 3. <a href="https://colab.research.google.com/github/Nikitoniy/Yandex_Data_Analysis/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0_%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2_%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0.ipynb" target="blank">Анализ оттока клиентов банка</a>
+
+**Задача:**
+Заказчик этого исследования — банк Метанпромбанк.
+Главной задачей исследования является анализ оттока клиентов. 
+Анализ должен показать, какие клиенты уходят из банка, а также поможет составить сегменты клиентов, которые склонны уходить из банка.
+
+**Библиотеки:**
+`pandas, numpy, seaborn, matplotlib, plotly, phik, scipy`
+<hr>
